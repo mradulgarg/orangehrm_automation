@@ -1,0 +1,39 @@
+QA Automation Test Results - Orange HRM
+======================================================================
+
+📁 Login
+----------------------------------------------------------------------
+Step       | Description                                        | Status
+----------------------------------------------------------------------
+Step 1     | Open Orange HRM Login Page                         | ✅ Pass
+Step 2     | Login with valid credentials                       | ✅ Pass
+
+📁 PIM Navigation
+----------------------------------------------------------------------
+Step       | Description                                        | Status
+----------------------------------------------------------------------
+Step 3     | Navigate to PIM Module                             | ✅ Pass
+
+📁 Add Employees
+----------------------------------------------------------------------
+Step       | Description                                        | Status
+----------------------------------------------------------------------
+Step 4     | Add employee: KK Sharma                            | ✅ Pass
+Step 5     | Add employee: Abhi Verma                           | ✅ Pass
+Step 6     | Add employee: Niu Singh                            | ✅ Pass
+
+📁 Verify Employees
+----------------------------------------------------------------------
+Step       | Description                                        | Status
+----------------------------------------------------------------------
+Step 7     | Verify employee: KK Sharma                         | ✅ Pass
+Step 8     | Verify employee: Abhi Verma                        | ✅ Pass
+Step 9     | Verify employee: Niu Singh                         | ✅ Pass
+
+📁 Logout
+----------------------------------------------------------------------
+Step       | Description                                        | Status
+----------------------------------------------------------------------
+Step 10    | Logout from Dashboard                              | ✅ Pass
+
+======================================================================
