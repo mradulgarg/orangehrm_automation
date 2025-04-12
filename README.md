@@ -1,7 +1,7 @@
 # 🧪 OrangeHRM QA Automation Assignment – 2025
 
 ### ✅ Automation Testing
-- 📁 Implemented using **Python + Selenium + Page Object Model (POM)**.
+- 📁 Implemented using **Python + Selenium **.
 - Automates the following flows:
   - Login to the app
   - Navigate to the PIM module
